@@ -26,12 +26,14 @@ p {
 
 .wrapper {
 	max-width: 1980px;
+	min-height: 100vh;
 	padding: 0 30px;
 	margin: 0 auto;
 }
 
 .inner {
 	max-width: 1000px;
+	min-height: 100vh;
 	text-align: center;
 	background-color: #57595c;
 	padding: 70px 0;
